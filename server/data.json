@@ -1,0 +1,94 @@
+[
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ea",
+    "name": "Brian",
+    "gender": "Male",
+    "language": "English",
+    "languageCode": "en",
+    "countryCode": "GB",
+    "type": "Neural",
+    "voiceURL":"https://firebasestorage.googleapis.com/v0/b/assignment-3a298.appspot.com/o/en-GB_Brian_Male_Standard.mp3?alt=media&token=8ef720bf-5de8-4417-891f-dddb5656cf3d"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269eb",
+    "name": "Celine",
+    "gender": "Female",
+    "language": "French",
+    "languageCode": "fr",
+    "countryCode": "FR",
+    "type": "Standard",
+    "voiceURL":"https://firebasestorage.googleapis.com/v0/b/assignment-3a298.appspot.com/o/fr-FR_Celine_Female_Standard.mp3?alt=media&token=68276591-c2ba-40eb-81ca-d0cae8f284da"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ec",
+    "name": "Aditi",
+    "gender": "Female",
+    "language": "English",
+    "languageCode": "en",
+    "countryCode": "IN",
+    "type": "Standard",
+    "voiceURL":"https://firebasestorage.googleapis.com/v0/b/assignment-3a298.appspot.com/o/en-IN_Aditi_Female_Standard.mp3?alt=media&token=fe18195a-9aeb-4617-b3b3-1f95d18f35bb"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ed",
+    "name": "Justin",
+    "gender": "Male",
+    "isChild": true,
+    "language": "English",
+    "languageCode": "en",
+    "countryCode": "US",
+    "type": "Neural",
+    "voiceURL":"https://firebasestorage.googleapis.com/v0/b/assignment-3a298.appspot.com/o/en-US_Justin_Male-child_Neural.mp3?alt=media&token=b1270914-6af2-42fd-bc33-24a1fe3ffa5a"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ee",
+    "name": "Seoyeon",
+    "gender": "Female",
+    "language": "Korean",
+    "languageCode": "ko",
+    "countryCode": "KR",
+    "type": "Standard",
+    "voiceURL":"https://firebasestorage.googleapis.com/v0/b/assignment-3a298.appspot.com/o/ko-KR_Seoyeon_Female_Standard.mp3?alt=media&token=6337ff45-caa8-4908-b876-db32c8693805"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ef",
+    "name": "Ivy",
+    "gender": "Female",
+    "isChild": true,
+    "language": "English",
+    "languageCode": "en",
+    "countryCode": "US",
+    "type": "Neural",
+    "voiceURL":"https://firebasestorage.googleapis.com/v0/b/assignment-3a298.appspot.com/o/en-US_Ivy_Female-child_Neural.mp3?alt=media&token=cf89e9fd-6de1-4aed-9e50-8b72c9c925b7"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269aa",
+    "name": "Cristiano",
+    "gender": "Male",
+    "language": "Portuguese",
+    "languageCode": "pt",
+    "countryCode": "PT",
+    "type": "Standard",
+    "voiceURL":"https://firebasestorage.googleapis.com/v0/b/assignment-3a298.appspot.com/o/pt-PT_Cristiano_Male_Standard.mp3?alt=media&token=d9c63745-66af-4194-a2c9-5222eb1b8480"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ab",
+    "name": "Vitoria",
+    "gender": "Female",
+    "language": "Portuguese",
+    "languageCode": "pt",
+    "countryCode": "BR",
+    "type": "Standard",
+    "voiceURL":"https://firebasestorage.googleapis.com/v0/b/assignment-3a298.appspot.com/o/pt-BR_Vitoria_Female_Standard.mp3?alt=media&token=10f33d1a-8f93-45a9-a0c6-5b37e5a71bc3"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ac",
+    "name": "Vitoria",
+    "gender": "Female",
+    "language": "Portuguese",
+    "languageCode": "pt",
+    "countryCode": "BR",
+    "type": "Neural",
+    "voiceURL":"https://firebasestorage.googleapis.com/v0/b/assignment-3a298.appspot.com/o/pt-BR_Vitoria_Female_Neural.mp3?alt=media&token=9bf5229c-9f94-4947-aa59-f1d5b2ef22a5"
+  }
+]
